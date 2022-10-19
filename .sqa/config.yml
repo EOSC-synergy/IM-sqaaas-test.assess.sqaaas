@@ -21,6 +21,6 @@ sqa_criteria:
     repos:
       github.com/orviz/IM-sqaaas-test im_client:
         commands:
-        - /usr/bin/env sh .sqa/script.hilly-cyan-millipede.sh
-        container: svcqc.dep_bluesy-blue-worm
+        - /usr/bin/env sh .sqa/script.surly-alizarin-toad.sh
+        container: svcqc.dep_muzzy-pumpkin-seal
 timeout: 1800

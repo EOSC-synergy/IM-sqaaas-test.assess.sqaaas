@@ -1,5 +1,5 @@
 services:
-  svcqc.dep_bluesy-blue-worm:
+  svcqc.dep_muzzy-pumpkin-seal:
     entrypoint:
     - /bin/sleep
     - infinity
