@@ -21,6 +21,6 @@ sqa_criteria:
     repos:
       github.com/orviz/IM-sqaaas-test im_client:
         commands:
-        - /usr/bin/env sh .sqa/script.sunny-buff-blue.sh
-        container: svcqc.dep_gummy-amber-barracuda
+        - /usr/bin/env sh .sqa/script.craggy-sapphire-llama.sh
+        container: svcqc.dep_grumpy-white-jellyfish
 timeout: 1800
