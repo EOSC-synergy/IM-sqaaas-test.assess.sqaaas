@@ -21,6 +21,6 @@ sqa_criteria:
     repos:
       github.com/orviz/IM-sqaaas-test im_client:
         commands:
-        - /usr/bin/env sh .sqa/script.stuffy-teal-quokka.sh
-        container: svcqc.dep_gimpy-pink-fowl
+        - /usr/bin/env sh .sqa/script.freaky-harlequin-angora.sh
+        container: svcqc.dep_wiggy-puce-peccary
 timeout: 1800
