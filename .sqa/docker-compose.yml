@@ -1,5 +1,5 @@
 services:
-  svcqc.dep_flaky-silver-tortoise:
+  svcqc.dep_bluesy-blue-worm:
     entrypoint:
     - /bin/sleep
     - infinity
