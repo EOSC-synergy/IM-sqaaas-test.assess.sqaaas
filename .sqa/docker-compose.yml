@@ -1,5 +1,5 @@
 services:
-  svcqc.dep_scanty-amethyst-civet:
+  svcqc.dep_flaky-silver-tortoise:
     entrypoint:
     - /bin/sleep
     - infinity
