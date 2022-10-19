@@ -1,5 +1,5 @@
 services:
-  svcqc.dep_gloppy-ochre-spitz:
+  svcqc.dep_gimpy-pink-fowl:
     entrypoint:
     - /bin/sleep
     - infinity

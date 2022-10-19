@@ -21,6 +21,6 @@ sqa_criteria:
     repos:
       github.com/orviz/IM-sqaaas-test im_client:
         commands:
-        - /usr/bin/env sh .sqa/script.cranky-carmine-argentino.sh
-        container: svcqc.dep_gloppy-ochre-spitz
+        - /usr/bin/env sh .sqa/script.stuffy-teal-quokka.sh
+        container: svcqc.dep_gimpy-pink-fowl
 timeout: 1800
